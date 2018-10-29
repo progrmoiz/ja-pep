@@ -2,7 +2,7 @@
     "name": "ja-pep",
     "displayName": "Just Another Python Extension Pack",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "progrmoiz",
     "engines": {
         "vscode": "^1.28.0"
@@ -18,7 +18,7 @@
         "spywhere.guides"
     ],
     "repository": {
-        "type" : "git",
-        "url" : "https://github.com/progrmoiz/ja-pep.git"
+        "type": "git",
+        "url": "https://github.com/progrmoiz/ja-pep.git"
     }
 }
