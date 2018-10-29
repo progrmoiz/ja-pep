@@ -10,7 +10,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [
+    "extensionDependencies": [
         "ms-python.python",
         "magicstack.MagicPython",
         "VisualStudioExptTeam.vscodeintellicode",
