@@ -2,7 +2,7 @@
     "name": "ja-pep",
     "displayName": "Just Another Python Extension Pack",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "progrmoiz",
     "engines": {
         "vscode": "^1.28.0"
@@ -16,5 +16,9 @@
         "VisualStudioExptTeam.vscodeintellicode",
         "formulahendry.code-runner",
         "spywhere.guides"
-    ]
+    ],
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/progrmoiz/ja-pep.git"
+    }
 }
