@@ -1,0 +1,20 @@
+{
+    "name": "ja-pep",
+    "displayName": "Just Another Python Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "progrmoiz",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "magicstack.MagicPython",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "formulahendry.code-runner",
+        "spywhere.guides"
+    ]
+}
